@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <br />
 
-![What I work on]([...]:https://github-readme-stats.vercel.app/api/top-langs/?username=kb-perbyte&layout=compact&theme=tokyonight)
+![What I work on](https://github-readme-stats.vercel.app/api/top-langs/?username=kb-perbyte&layout=compact&theme=tokyonight)
 
-![What happens]([Paul's]:https://github-readme-stats.vercel.app/api?username=kb-perbyte&theme=tokyonight&show_icons=true&include_all_commits=true)
+![What happens](https://github-readme-stats.vercel.app/api?username=kb-perbyte&theme=tokyonight&show_icons=true&include_all_commits=true)
