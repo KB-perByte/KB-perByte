@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 <!--
 **KB-perByte/KB-perByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <br />
 
-![What I work on](https://github-readme-stats.vercel.app/api/top-langs/?username=kb-perbyte&layout=compact&theme=tokyonight)
+![What I work on]([...]:https://github-readme-stats.vercel.app/api/top-langs/?username=kb-perbyte&layout=compact&theme=tokyonight)
 
-<br />
-
-![What happens](https://github-readme-stats.vercel.app/api?username=kb-perbyte&theme=tokyonight&show_icons=true&include_all_commits=true)
+![What happens]([Paul's]:https://github-readme-stats.vercel.app/api?username=kb-perbyte&theme=tokyonight&show_icons=true&include_all_commits=true)
